@@ -1,0 +1,3 @@
+This project involves the implementation of a custom instruction lexer using Lex (Flex), designed to simulate a basic instruction set for evaluating arithmetic expressions and generating a simplified object dump output — similar to a compiler's intermediate or low-level representation.
+
+The lexer processes a stream of user-defined instructions like LOAD, ADD, SUB, MUL, DIV, STORE, IFZ, LOOP, and HLT. Each instruction manipulates a global accumulator (value), enabling basic computation, conditionals, and loops.
